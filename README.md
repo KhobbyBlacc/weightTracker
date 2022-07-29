@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
+## SignIn or register with dummy text but with email format
 
 This project is a starting point for a Flutter application.
 
